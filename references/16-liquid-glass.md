@@ -37,4 +37,4 @@
 
 ## 来源记录
 
-提炼自 [www228/liquid-glass-web 的固定版本](https://github.com/www228/liquid-glass-web/blob/72851acc2397030c2f71afd42d78ec92ae172447/skills/liquid-glass-web/SKILL.md)。上述提示词和静态媒介适配是本仓库新增整理，不冒充原Skill原文或Apple原生材质规范。
+提炼自[本仓库收录的液态玻璃Skill快照](https://github.com/www228/design-style/blob/616de34c958e73bc51fc390e55f62ed1157c9e97/skills/liquid-glass-web/SKILL.md)。历史来源标识为 `www228/liquid-glass-web`，原版本为 `72851acc2397030c2f71afd42d78ec92ae172447`；使用本资料无需访问原独立仓库。上述提示词和静态媒介适配是本仓库新增整理，不冒充原Skill原文或Apple原生材质规范。

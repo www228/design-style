@@ -26,4 +26,4 @@
 
 ## 来源记录
 
-提炼自 [www228/typesafe-inspired-design 的固定版本](https://github.com/www228/typesafe-inspired-design/blob/cc25adc3fab7b926ec16feaf211e33f16a5c2f5f/SKILL.md)。上述提示词与静态媒介适配为本仓库新增整理；需要高度还原官网实时版本时再单独核对，普通选型不要求访问外部网站。
+提炼自[本仓库收录的TypeSafe Skill快照](https://github.com/www228/design-style/blob/616de34c958e73bc51fc390e55f62ed1157c9e97/skills/typesafe-inspired-design/SKILL.md)。历史来源标识为 `www228/typesafe-inspired-design`，原版本为 `cc25adc3fab7b926ec16feaf211e33f16a5c2f5f`；使用本资料无需访问原独立仓库。上述提示词与静态媒介适配为本仓库新增整理；需要高度还原官网实时版本时再单独核对，普通选型不要求访问外部网站。

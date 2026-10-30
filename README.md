@@ -98,12 +98,12 @@ Codex默认用户目录为 `~/.codex/skills/design-style/`；Windows对应 `%USE
 
 | Skill | 完整规则 | 用途 | 来源版本 |
 | --- | --- | --- | --- |
-| `liquid-glass-web` | [SKILL.md](skills/liquid-glass-web/SKILL.md) | 以CSS表达液态玻璃材质，保持现有布局、业务行为与响应式约定 | [72851acc](https://github.com/www228/liquid-glass-web/tree/72851acc2397030c2f71afd42d78ec92ae172447) |
-| `typesafe-inspired-design` | [SKILL.md](skills/typesafe-inspired-design/SKILL.md) | 将TypeSafe启发的大字、暖粉色、硬朗窗口与技术图示用于网站或应用 | [cc25adc3](https://github.com/www228/typesafe-inspired-design/tree/cc25adc3fab7b926ec16feaf211e33f16a5c2f5f) |
+| `liquid-glass-web` | [SKILL.md](skills/liquid-glass-web/SKILL.md) | 以CSS表达液态玻璃材质，保持现有布局、业务行为与响应式约定 | 原版本 `72851acc`；[本仓库收录快照](https://github.com/www228/design-style/blob/616de34c958e73bc51fc390e55f62ed1157c9e97/skills/liquid-glass-web/SKILL.md) |
+| `typesafe-inspired-design` | [SKILL.md](skills/typesafe-inspired-design/SKILL.md) | 将TypeSafe启发的大字、暖粉色、硬朗窗口与技术图示用于网站或应用 | 原版本 `cc25adc3`；[本仓库收录快照](https://github.com/www228/design-style/blob/616de34c958e73bc51fc390e55f62ed1157c9e97/skills/typesafe-inspired-design/SKILL.md) |
 
 需要独立调用时，将 `skills/` 内对应文件夹复制到自己的Skill目录，保留其名称和文件结构。已安装同名Skill时，先确认是否需要更新，避免覆盖自己维护的修改。
 
-这里收录的是上述固定版本的完整 `SKILL.md` 和 `agents/openai.yaml`，来源与原文中的引用一并保留；后续不会自动同步来源仓库。新加入的第16、17种预设对原规则做了海报/PPT适配，相关补充在对应资料中明确标出。
+两个设计Skill现统一在本仓库维护。这里保留原版本的完整 `SKILL.md`、`agents/openai.yaml` 与历史来源标识，快照链接也指向本仓库，使用时无需访问原独立仓库。第16、17种预设对原规则做了海报/PPT适配，相关补充在对应资料中明确标出。
 
 ## 仓库结构
 
